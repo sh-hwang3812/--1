@@ -1,0 +1,6 @@
+{
+  "name": "터보 하이웨이: 2D 레트로 레이서",
+  "description": "네트워크/API 연결 없이 바로 즐기는 박진감 넘치는 고속도로 자동차 회피 레이싱 게임. 다양한 차량 선택, 부스터, 아이템 수집 및 실시간 사운드 효과를 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
